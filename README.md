@@ -12,6 +12,8 @@ Currently I am a Software Developer at Robert [Bosch](https://www.bosch.com/) Gm
 ## Skills
 **Languages**: C++, Java, Python, Javascript, Shell Scripting.
 
+**Embedded**: C, Assembly, Lauterbach, CANoe, vFlash.
+
 **Data Science**: Python with NumPy, Pandas, Matplotliv, Seaborn.
 
 **Web Dev**: MERN Stack (React, Node).
