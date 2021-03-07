@@ -34,6 +34,11 @@ environments” where I developed several network mechanisms under Delay Toleran
 ### University of Aveiro - DETI
 Masters in Electronic and Telecommuncations Engineering (2019)
 
+## Contact
+<!--### University of Aveiro - DETI -->
+[linkedin](https://www.linkedin.com/in/joaobcpatricio/)
+[stackoverflow](https://stackoverflow.com/users/11299409/jo%c3%a3o-p)
+
 <!--
 **joaobcpatricio/joaobcpatricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
