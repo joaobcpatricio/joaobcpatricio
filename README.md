@@ -37,6 +37,7 @@ Masters in Electronic and Telecommuncations Engineering (2019)
 ## Contact
 <!--### University of Aveiro - DETI -->
 [linkedin](https://www.linkedin.com/in/joaobcpatricio/)
+
 [xing](https://www.xing.com/profile/Joao_Patricio4)
 
 [stackoverflow](https://stackoverflow.com/users/11299409/jo%c3%a3o-p)
