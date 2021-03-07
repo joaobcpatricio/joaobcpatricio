@@ -14,9 +14,9 @@ Currently I am a Software Developer at Robert [Bosch](https://www.bosch.com/) Gm
 
 **Embedded**: C, Assembly, Lauterbach, CANoe, vFlash.
 
-**Data Science**: Python with NumPy, Pandas, Matplotliv, Seaborn.
+**Web Dev**: MERN Stack (NodeJS, Express, REST APIs, MongoDB, SQL, etc).
 
-**Web Dev**: MERN Stack (React, Node).
+**Data Science**: Python with NumPy, Pandas, Matplotliv, Seaborn.
 
 ## Research
 
