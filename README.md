@@ -11,7 +11,7 @@ I started my carrear as a Software Developer at Robert [Bosch](https://www.bosch
 Currently I am a Development Engineer at [northh medical GmbH](northh.de), where I take part in developing [smart-sync](https://www.northh.de/product), an MR compatible Doppler ultrasound system, which synchronizes the cardiac cycle with the image acquisition (“Gating”).
 
 ## Skills
-**Languages**: C++, Java, Python, Javascript, Shell Scripting.
+**Languages**: C++, C#, Java, Python, Javascript, Shell Scripting.
 
 **Embedded**: C, Assembly, Lauterbach, CANoe, vFlash.
 
