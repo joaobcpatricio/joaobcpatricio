@@ -7,7 +7,8 @@ Some of the fields that interest me the most are all related to IoT that make ou
 (Sensors) up to self-organized networks and 5G, and also the Automotive industry from embedded SW to
 vehicular network mechanisms. 
 
-Currently I am a Software Developer at Robert [Bosch](https://www.bosch.com/) GmbH, where I develop bootlaoder projects.
+I started my carrear as a Software Developer at Robert [Bosch](https://www.bosch.com/) GmbH, where I developed bootloader projects.
+Currently I am a Development Engineer at [northh medical GmbH](northh.de), where I take part in developing [smart-sync](https://www.northh.de/product), an MR compatible Doppler ultrasound system, which synchronizes the cardiac cycle with the image acquisition (“Gating”).
 
 ## Skills
 **Languages**: C++, Java, Python, Javascript, Shell Scripting.
