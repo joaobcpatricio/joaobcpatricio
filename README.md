@@ -4,8 +4,8 @@ I am a 25 years old M.Sc. Electronic and Telecommunications Engineer, an area th
 awakened in me a great interest and curiosity since a young age. Both personally and professionally, it motivates
 me to take part on challenging projects by developing technologies that have a positive impact in our world.
 Some of the fields that interest me the most are all related to IoT that make our Cities Smart, from sensing
-(Sensors) up to self-organized networks and 5G, and also the Automotive industry from embedded SW to
-vehicular network mechanisms. 
+(Sensors) up to self-organized networks, the Automotive industry from embedded SW to
+vehicular network mechanisms and the health industry. 
 
 I started my carrear as a Software Developer at Robert [Bosch](https://www.bosch.com/) GmbH, where I developed bootloader projects.
 Currently I am a Development Engineer at [northh medical GmbH](northh.de), where I take part in developing [smart-sync](https://www.northh.de/product), an MR compatible Doppler ultrasound system, which synchronizes the cardiac cycle with the image acquisition (“Gating”).
@@ -17,7 +17,7 @@ Currently I am a Development Engineer at [northh medical GmbH](northh.de), where
 
 **Web Dev**: MERN Stack (NodeJS, Express, REST APIs, MongoDB, SQL, etc).
 
-**Data Science**: Python with NumPy, Pandas, Matplotliv, Seaborn.
+**Data Science**: Python with NumPy,  Dash Plotly Dashboards, Pandas, Matplotliv, Seaborn.
 
 ## Research
 
