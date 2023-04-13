@@ -1,6 +1,6 @@
 ### João Patrício 👋
 
-I am a 25 years old M.Sc. Electronic and Telecommunications Engineer, an area that has always
+I am a 26 years old M.Sc. Electronic and Telecommunications Engineer, an area that has always
 awakened in me a great interest and curiosity since a young age. Both personally and professionally, it motivates
 me to take part on challenging projects by developing technologies that have a positive impact in our world.
 Some of the fields that interest me the most are all related to IoT that make our Cities Smart, from sensing
