@@ -1,14 +1,14 @@
 ### João Patrício 👋
 
-I am a 26 years old M.Sc. Electronic and Telecommunications Engineer, an area that has always
-awakened in me a great interest and curiosity since a young age. Both personally and professionally, it motivates
-me to take part on challenging projects by developing technologies that have a positive impact in our world.
-Some of the fields that interest me the most are all related to IoT that make our Cities Smart, from sensing
-(Sensors) up to self-organized networks, the Automotive industry from embedded SW to
-vehicular network mechanisms and the health industry. 
+I am a 27 years old M.Sc. Electronic and Telecommunications Engineer, an area that has always awakened in me a great interest and curiosity since a young age. 
+Taking part on challenging projects that have a positive impact in our world is my passion. 
+Some of the fields that interest me the most are augmented and virtual reality, along with reality simulation, and all related to IoT that make our Cities Smart, from sensing (Sensors) up to self-organized network.
 
-I started my carrear as a Software Developer at Robert [Bosch](https://www.bosch.com/) GmbH, where I developed bootloader projects.
-Currently I am a Development Engineer at [northh medical GmbH](northh.de), where I take part in developing [smart-sync](https://www.northh.de/product), an MR compatible Doppler ultrasound system, which synchronizes the cardiac cycle with the image acquisition (“Gating”).
+Besides following the latest technologies and personal tech projects, on my free time I enjoy playing VR games, musical instruments, going to concerts, travelling, and watching TV series.
+
+I started my carrear as a Software Developer at Robert [Bosch](https://www.bosch.com/) GmbH, where I developed bootloader projects for automotive vehicles.
+I then moved to Germany as a Development Engineer at [northh medical GmbH](northh.de), where I took part in developing [smart-sync](https://www.northh.de/product), an MR compatible Doppler ultrasound system, which synchronizes the cardiac cycle with the image acquisition (“Gating”). 
+In late 2023, I made the decision to embark on a new opportunity as a Software Developer at [Thales Simulation & Training AG](https://www.thalesgroup.com/en/markets/specific-solutions/training-simulation) in Bern, which led me to the captivating city of Thun, Switzerland.
 
 ## Skills
 **Languages**: C++, C#, Python, Java, Javascript, Shell Scripting.
