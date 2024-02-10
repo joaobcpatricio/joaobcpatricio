@@ -8,14 +8,14 @@ Besides following the latest technologies and personal tech projects, on my free
 
 I started my carrear as a Software Developer at Robert [Bosch](https://www.bosch.com/) GmbH, where I developed bootloader projects for automotive vehicles.
 I then moved to Germany as a Development Engineer at [northh medical GmbH](northh.de), where I took part in developing [smart-sync](https://www.northh.de/product), an MR compatible Doppler ultrasound system, which synchronizes the cardiac cycle with the image acquisition (“Gating”). 
-In late 2023, I made the decision to embark on a new opportunity as a Software Developer at [Thales Simulation & Training AG](https://www.thalesgroup.com/en/markets/specific-solutions/training-simulation) in Bern, which led me to the captivating city of Thun, Switzerland.
+In late 2023, I enthusiastically embraced a new chapter as a Software Engineer at [Thales Simulation & Training AG](https://www.thalesgroup.com/en/markets/specific-solutions/training-simulation) in Bern, immersing myself in several dynamic projects centered around Virtual Simulators.
 
 ## Skills
 **Languages**: C++, C#, Python, Java, Javascript, Shell Scripting.
 
 **Embedded**: C, Assembly, Lauterbach, CANoe, vFlash.
 
-**Web Dev**: MERN Stack (NodeJS, Express, REST APIs, MongoDB, SQL, etc).
+**Virtualization**: Unreal Engine 5, MAK VR-Forces/Vantage, HLA, SCANeR.
 
 **Data Science**: Python with NumPy,  Dash Plotly Dashboards, Pandas, Matplotliv, Seaborn.
 
@@ -37,11 +37,9 @@ Masters in Electronic and Telecommuncations Engineering (2019)
 
 ## Contact
 <!--### University of Aveiro - DETI -->
-[linkedin](https://www.linkedin.com/in/joaobcpatricio/)
+📫[linkedin](https://www.linkedin.com/in/joaobcpatricio/)
 
-[xing](https://www.xing.com/profile/Joao_Patricio4)
-
-[stackoverflow](https://stackoverflow.com/users/11299409/jo%c3%a3o-p)
+👯[stackoverflow](https://stackoverflow.com/users/11299409/jo%c3%a3o-p)
 
 <!--
 **joaobcpatricio/joaobcpatricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
