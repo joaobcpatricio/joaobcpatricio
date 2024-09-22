@@ -21,7 +21,7 @@ In late 2023, I enthusiastically embraced a new chapter as a Software Engineer a
 
 **Tech Tools**: CMake, Make, Markdown, Mermaid, Git, YAML (automation & jobs).
 
-**AI**: LM Studio, LLMs: Llama, Mixtral.
+**AI**: LM Studio, LLMs: Llama & Mixtral, STM32Cube.AI.
 
 
 ## Research
