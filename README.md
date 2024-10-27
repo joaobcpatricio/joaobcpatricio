@@ -38,7 +38,7 @@ environments” where I developed several network mechanisms under Delay Toleran
 
 ## Education
 ### University of Aveiro - DETI
-Masters in Electronic and Telecommuncations Engineering (2019)
+Integrated Masters in Electronic and Telecommunications Engineering (2019)
 
 ## Contact
 <!--### University of Aveiro - DETI -->
