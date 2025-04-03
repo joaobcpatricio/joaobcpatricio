@@ -2,7 +2,7 @@
 
 Welcome! For an interactive experience, check out my [website](https://joaobcpatricio.github.io).
 
-I am a 28 years old M.Sc. Electronic and Telecommunications Engineer, an area that has always awakened in me a great interest and curiosity since a young age. 
+I am a 29 years old M.Sc. Electronic and Telecommunications Engineer, an area that has always awakened in me a great interest and curiosity since a young age. 
 Taking part on challenging projects that have a positive impact in our world is my passion. 
 Some of the fields that interest me the most are augmented and virtual reality, along with reality simulation, and all related to IoT that make our Cities Smart, from sensing (Sensors) up to self-organized networks.
 
